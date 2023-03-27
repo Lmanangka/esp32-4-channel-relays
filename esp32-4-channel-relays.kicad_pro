@@ -1,45 +1,6 @@
 {
   "board": {
-    "3dviewports": [
-      {
-        "name": "Back-view",
-        "ww": 1.0,
-        "wx": 13.207093238830566,
-        "wy": 10.00841999053955,
-        "wz": -10.927982330322266,
-        "xw": 0.0,
-        "xx": -1.0,
-        "xy": 0.0,
-        "xz": -1.7555552403791808e-05,
-        "yw": 0.0,
-        "yx": 0.0,
-        "yy": 1.0,
-        "yz": 0.0,
-        "zw": 0.0,
-        "zx": 1.7555552403791808e-05,
-        "zy": 0.0,
-        "zz": -1.0
-      },
-      {
-        "name": "Front-view",
-        "ww": 1.0,
-        "wx": -13.207093238830566,
-        "wy": 10.00841999053955,
-        "wz": -10.928214073181152,
-        "xw": 0.0,
-        "xx": 1.0,
-        "xy": 0.0,
-        "xz": 0.0,
-        "yw": 0.0,
-        "yx": 0.0,
-        "yy": 1.0,
-        "yz": 0.0,
-        "zw": 0.0,
-        "zx": 0.0,
-        "zy": 0.0,
-        "zz": 1.0
-      }
-    ],
+    "3dviewports": [],
     "design_settings": {
       "defaults": {
         "board_outline_line_width": 0.09999999999999999,
@@ -556,7 +517,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "img/schematic",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,

@@ -7,6 +7,7 @@
   (title_block
     (title "ESP32 4 Channel Relays")
     (date "2023-03-19")
+    (company "Self-Employed")
   )
 
   (lib_symbols
@@ -6992,10 +6993,10 @@
     (property "Datasheet" "" (at 31.75 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3857eeb1-90f6-40d2-b96b-a93cd3a1304e))
-    (pin "1" (uuid 3857eeb1-90f6-40d2-b96b-a93cd3a1304e))
-    (pin "2" (uuid 80196b94-bbea-40d5-8570-5e395017c743))
-    (pin "2" (uuid 80196b94-bbea-40d5-8570-5e395017c743))
+    (pin "1" (uuid 3857eeb1-90f6-40d2-b96b-a93cd3a1304f))
+    (pin "1" (uuid 3857eeb1-90f6-40d2-b96b-a93cd3a1304f))
+    (pin "2" (uuid 80196b94-bbea-40d5-8570-5e395017c744))
+    (pin "2" (uuid 80196b94-bbea-40d5-8570-5e395017c744))
     (instances
       (project "esp32-4-channel-relays"
         (path "/8eb0840c-04b5-48e5-b6dd-a6c2b294f86f"
@@ -7262,10 +7263,10 @@
     (property "Datasheet" "" (at 31.75 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b064dc4d-d38f-4a5b-934f-0ca68782251a))
-    (pin "1" (uuid b064dc4d-d38f-4a5b-934f-0ca68782251a))
-    (pin "2" (uuid 955923e7-a695-403a-a773-b89d959154fc))
-    (pin "2" (uuid 955923e7-a695-403a-a773-b89d959154fc))
+    (pin "1" (uuid b064dc4d-d38f-4a5b-934f-0ca68782251b))
+    (pin "1" (uuid b064dc4d-d38f-4a5b-934f-0ca68782251b))
+    (pin "2" (uuid 955923e7-a695-403a-a773-b89d959154fd))
+    (pin "2" (uuid 955923e7-a695-403a-a773-b89d959154fd))
     (instances
       (project "esp32-4-channel-relays"
         (path "/8eb0840c-04b5-48e5-b6dd-a6c2b294f86f"
